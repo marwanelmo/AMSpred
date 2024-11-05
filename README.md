@@ -29,7 +29,7 @@ Install required packages by running:
 
 ```bash
 pip install -r requirements.txt
-'''
+```
 
 ## Usage Notes
 
@@ -40,4 +40,3 @@ pip install -r requirements.txt
 ## Contributing
 
 If you’d like to contribute, please create pull requests with detailed descriptions, ensuring all code adheres to PEP8 standards.
-```
